@@ -1,3 +1,4 @@
+#使用方法：将这个markdown喂给claude code或者codex就可以了
 
 # 微信聊天每日 AI 总结 + 自动同步到滴答清单（手机提醒）
 
